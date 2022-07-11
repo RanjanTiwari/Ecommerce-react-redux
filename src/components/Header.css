@@ -1,0 +1,47 @@
+.Header {position: absolute;
+width: 1440px;
+height: 70px;
+left: 0px;
+top: 1px;}
+
+.logo {
+position: absolute;
+left: 13.96%;
+right: 77.15%;
+top: 5.71%;
+bottom: 0%;
+
+
+}
+
+.ASAP {
+    position: absolute;
+width: 519px;
+height: 42px;
+left: 357px;
+top: 14px;
+}
+
+.Signin {
+position: absolute;
+left: 71.88%;
+right: 21.18%;
+top: 32.86%;
+bottom: 32.86%;
+}
+
+fav {
+    position: absolute;
+left: 81.46%;
+right: 15.49%;
+top: 15.71%;
+bottom: 32.86%;
+}
+
+bag{
+    position: absolute;
+left: 86.74%;
+right: 10.21%;
+top: 15.71%;
+bottom: 32.86%;
+}
